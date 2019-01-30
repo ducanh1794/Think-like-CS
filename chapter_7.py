@@ -1,11 +1,11 @@
 """Exercises."""
 # 3. Write a function which is given an exam mark and returns its grade
 # >= 90: A, [80-90): B, [70-80): C, [60-70): D, < 60: F
-# import unittest
+import unittest
 # import math
 # import turtle
 
-'''
+
 def gradeformark(mark):
     """Define gradeformark function which returns students' grade."""
     """from exam grade."""
@@ -30,7 +30,7 @@ class TestGetGrade(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-'''
+
 
 
 # 4. Modify the turtle bar chart program. Any value greater or equal
